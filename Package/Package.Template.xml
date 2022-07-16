@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/">
+
+  <Assemblies>
+    <Assembly Location="ICSharpCode.SharpZipLib.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+</Solution>

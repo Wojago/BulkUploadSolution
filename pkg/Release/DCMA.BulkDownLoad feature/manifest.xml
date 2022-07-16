@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="d596f5f1-4624-432f-b918-f0f2beb9a5e5" SharePointProductVersion="14.0">
+  <Assemblies>
+    <Assembly Location="ICSharpCode.SharpZipLib.dll" DeploymentTarget="GlobalAssemblyCache" />
+    <Assembly Location="DCMA.BulkDownLoad.dll" DeploymentTarget="GlobalAssemblyCache" />
+  </Assemblies>
+  <TemplateFiles>
+    <TemplateFile Location="Images\DCMA.BulkDownLoad\zip_16x16.png" />
+    <TemplateFile Location="Images\DCMA.BulkDownLoad\zip_32x32.png" />
+    <TemplateFile Location="Layouts\DCMA.BulkDownLoad\DCMA.BulkDownLoadPage.aspx" />
+    <TemplateFile Location="Layouts\DCMA.BulkDownLoad\downloadaction.js" />
+  </TemplateFiles>
+  <FeatureManifests>
+    <FeatureManifest Location="DCMA.BulkDownLoad_BulkFeature\Feature.xml" />
+  </FeatureManifests>
+</Solution>

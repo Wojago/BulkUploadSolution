@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="d596f5f1-4624-432f-b918-f0f2beb9a5e5" solutionId="d596f5f1-4624-432f-b918-f0f2beb9a5e5" resetWebServer="false" name="DCMA.BulkDownLoad feature" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <assemblies>
+    <customAssembly location="ICSharpCode.SharpZipLib.dll" deploymentTarget="GlobalAssemblyCache" sourcePath="..\..\..\..\..\..\DCMA.SP.DocDownLoadqw\DCMA.SP.DocDownLoad\bin\Debug\ICSharpCode.SharpZipLib.dll" />
+  </assemblies>
+  <features>
+    <featureReference itemId="8a2edb40-ced5-4319-8187-6a69ac96d73a" />
+  </features>
+  <projectItems>
+    <projectItemReference itemId="593e0225-3f18-4d91-984c-d38e75e2cc04" />
+    <projectItemReference itemId="4b819e5d-9247-4c33-9b30-362029b4e507" />
+  </projectItems>
+</package>

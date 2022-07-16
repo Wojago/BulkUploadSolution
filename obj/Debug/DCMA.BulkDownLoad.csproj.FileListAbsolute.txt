@@ -1,0 +1,5 @@
+C:\Users\Tesfaye.Wojago\Desktop\DownLoad\DCMA.BulkDownLoad\DCMA.BulkDownLoad\bin\Debug\DCMA.BulkDownLoad.dll
+C:\Users\Tesfaye.Wojago\Desktop\DownLoad\DCMA.BulkDownLoad\DCMA.BulkDownLoad\bin\Debug\DCMA.BulkDownLoad.pdb
+C:\Users\Tesfaye.Wojago\Desktop\DownLoad\DCMA.BulkDownLoad\DCMA.BulkDownLoad\obj\Debug\DCMA.BulkDownLoad.dll
+C:\Users\Tesfaye.Wojago\Desktop\DownLoad\DCMA.BulkDownLoad\DCMA.BulkDownLoad\obj\Debug\DCMA.BulkDownLoad.pdb
+C:\Users\Tesfaye.Wojago\Desktop\DownLoad\DCMA.BulkDownLoad\DCMA.BulkDownLoad\obj\Debug\DCMA.BulkDownLoad.csprojResolveAssemblyReference.cache
